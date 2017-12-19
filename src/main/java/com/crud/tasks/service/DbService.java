@@ -2,7 +2,6 @@ package com.crud.tasks.service;
 
 import com.crud.tasks.controller.TaskNotFoundException;
 import com.crud.tasks.domain.Task;
-import com.crud.tasks.domain.TaskDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
